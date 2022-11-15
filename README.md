@@ -23,6 +23,7 @@ Because the project has a large amount of information, it is recommended to view
 - <b>Azure Data Studio</b>
 - <b>Microsoft PowerApps</b>
 - <b>draw.io (diagram construction)</b>
+- <b>Google Drive</b>
 
 <h3>Techniques and Notable Elements</h3>
 
