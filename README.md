@@ -6,7 +6,7 @@ Group project with [Eamon Gallagher](https://www.linkedin.com/in/etgallag/) & [E
 
 The components which I contributed to the project are centralized in the SQL script, where I was responsible for writing most of the SQL required to create the database and organize the data. The derived column and funciton section was also developed by Eamon. Otherwise, I worked with the app infrastructure, specifically focusing on the rating system and the associated screens/functions. Lastly, aside from the implementation of the internal and external database development, I was responsible for the written portion of the report, including but not limited to problem formulation, business rules, and major data questions.
 
-Because the project has a large portion of information, it is recommended to view the SQL script primarly to get an idea of how the project works. Also, the app is no longer active on PowerApps, so I have attached a video on how it works in the list below. Navigating the github page, the following files are attached:
+Because the project has a large amount of information, it is recommended to view the SQL script primarly to get an idea of how the project works. Also, the app is no longer active on PowerApps, so I have attached a video on how it works in the list below. Navigating the github page, the following files are attached:
 
 - <b>Recommended:</b> [SQL Script](https://github.com/kharmer9/Database_Development/blob/main/ProjectUpDown_v4.sql)
 - [Report](https://github.com/kharmer9/Database_Development/blob/main/Report.pdf)
